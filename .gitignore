@@ -1,0 +1,14 @@
+# Keep this repository limited to its reviewed showcase files.
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.zip
+*.apk
+*.exe
+__pycache__/
+node_modules/
+work/
+private/

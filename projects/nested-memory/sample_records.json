@@ -1,0 +1,46 @@
+[
+  {
+    "id": "fictional-note-01",
+    "source": "shortterm/inspection-note.json",
+    "date": "2026-10-20",
+    "status": "active",
+    "text": "The inspection checklist needs revision before the next equipment review."
+  },
+  {
+    "id": "fictional-plan-02",
+    "source": "midterm/equipment-review.json",
+    "date": "2026-10-01",
+    "status": "active",
+    "text": "The equipment review project includes replacing the inspection checklist this month."
+  },
+  {
+    "id": "fictional-decision-03",
+    "source": "longterm/operations/equipment/decision.json",
+    "date": "2026-08-12",
+    "status": "active",
+    "text": "Inspection checklist revisions require two reviewers before approval."
+  },
+  {
+    "id": "fictional-history-04",
+    "source": "longterm/operations/equipment/history.json",
+    "date": "2026-07-10",
+    "status": "active",
+    "current_authority": false,
+    "text": "A historical inspection checklist trial used a different review sequence. This is dated evidence."
+  },
+  {
+    "id": "fictional-superseded-05",
+    "source": "longterm/operations/equipment/old-policy.json",
+    "date": "2026-06-01",
+    "status": "superseded",
+    "text": "The old inspection checklist process used one reviewer."
+  },
+  {
+    "id": "fictional-local-06",
+    "source": "shortterm/local-example.json",
+    "date": "2026-10-20",
+    "status": "active",
+    "text": "A fictional local-only inspection checklist note. This is test data, not a real secret.",
+    "details": { "localMemoryOnly": true }
+  }
+]
